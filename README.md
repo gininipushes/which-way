@@ -19,7 +19,9 @@ No internet. No maps. No accounts. Just GPS, the phone's compass, and a needle.
 
 ## Install
 
-Grab `WhichWay.apk` from [Releases](../../releases), allow installs from unknown sources, and open it. Grant location (and Bluetooth/notifications if you want sync).
+**[⬇ Download WhichWay.apk (v2.2, ~50 KB)](https://github.com/gininipushes/which-way/raw/main/release/WhichWay.apk)**
+
+Open it on your phone, allow installs from unknown sources, and install. Grant location (and Bluetooth/notifications if you want sync).
 
 Requires Android 7.0+ (API 24). Targets API 34.
 
