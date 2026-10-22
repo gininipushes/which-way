@@ -1,0 +1,93 @@
+# cat	lat	lon	name	kind  (0=sutta 1=daaru 2=mandir) source: OpenStreetMap contributors, ODbL
+0	13.323448	74.726785		general store
+0	13.323688	74.726904		general store
+0	13.336577	74.747901	Krishna Traders	general store
+0	13.345571	74.794342	Pratham Stores	general store
+0	13.357526	74.754993	Ganesh General Stores	general store
+0	13.357573	74.755091	Madhukiran Stores	general store
+0	13.357775	74.754043	Tripthi General Stores	general store
+0	13.358200	74.761071	Budhagi	general store
+0	13.389067	74.754461		general store
+0	13.397584	74.749778		general store
+0	13.400767	74.763417		general store
+0	13.401148	74.764932		general store
+0	13.402108	74.748834		general store
+0	13.402181	74.749577		general store
+0	13.402208	74.749875		general store
+0	13.402286	74.754976		general store
+0	13.402306	74.750220		general store
+1	13.339663	74.749854	Heritage Kitchen & Bar	bar
+1	13.343718	74.747186		bar
+1	13.345104	74.750854	Wine Gate	liquor shop
+1	13.348310	74.781280	Down the Road (DTR)	bar
+1	13.358290	74.784449	Barrels India	bar
+1	13.359111	74.785158	The Big Shot	pub
+1	13.402309	74.748450	Laxmi Bar	bar
+2	13.294095	74.769103	Rahmaniya Jumma Masjid Manipura	mosque
+2	13.299707	74.798173		place of worship
+2	13.309703	74.737735	Shiva Temple	place of worship
+2	13.316919	74.764479	Sri Mahalingeshwara Temple	temple
+2	13.324641	74.736683	Jayadurga Parameshwari	temple
+2	13.324675	74.734668		temple
+2	13.328831	74.763441	Narayana Guru Bhajana Mandira	temple
+2	13.330916	74.756949	Srinivasa Temple	place of worship
+2	13.336783	74.748859	Garodi Temple	place of worship
+2	13.337031	74.748629		church
+2	13.337078	74.748510	St Mary's Church	place of worship
+2	13.337243	74.730666	Mahakali and Janardhana Temple	temple
+2	13.337349	74.794292	Temple Arbi falls	temple
+2	13.337437	74.752303	Sri Venktaramana Temple, Udupi	temple
+2	13.338600	74.778264	Indrali Temple	temple
+2	13.339977	74.785311	Prasanna Ganapathy Temple	temple
+2	13.340033	74.751462	Adamaru Matha Sri Narahari Teertha Samsthana	temple
+2	13.340293	74.752457	Puttige Matha	temple
+2	13.340312	74.751152	Pejavara Mutt Udupi	temple
+2	13.340366	74.752681	Sode Mutt	temple
+2	13.340462	74.751236	Sri Uttaradi math	temple
+2	13.340751	74.751115	Palimaaru Mutt Udupi	temple
+2	13.340771	74.752688	Sri Vidyavarindhi Teerta	temple
+2	13.340783	74.751674	Sri Anantheshwara Temple	temple
+2	13.340831	74.752257	Sri Chandramauleeshwara Temple	temple
+2	13.341003	74.752624	Shree Kaniyoor Math	temple
+2	13.341050	74.751046	Shri Raghavendra Swami Mutt	place of worship
+2	13.341069	74.751031	Sri Raghavendra Swamy Matha	temple
+2	13.341154	74.752003	Krishna Matha Udupi	temple
+2	13.341185	74.752042	Sri Krishna Temple Udupi	temple
+2	13.341360	74.751659	Shiruru Mutt Udupi	temple
+2	13.341671	74.752193	Vasanata Mantapa and Bhojana Shaale	temple
+2	13.342180	74.752676	Geetha Mandir Udupi	temple
+2	13.342229	74.788821	Christ Church	church
+2	13.342241	74.752058	Raajangana	temple
+2	13.342573	74.749679	Jamia Masjid	mosque
+2	13.342594	74.749778		mosque
+2	13.344821	74.791169	Venugopal Temple	temple
+2	13.346275	74.798519	Temple	temple
+2	13.346365	74.789867		place of worship
+2	13.346943	74.783940	Bread of Life Prayer & Praise Centre	church
+2	13.347047	74.789872		church
+2	13.348637	74.742593	Shani temple big murti	place of worship
+2	13.350482	74.864895	Anantha Padmanabha Temple	place of worship
+2	13.353401	74.791418	Sri Babbuswami Daivasthana	temple
+2	13.354148	74.792463	Manipal Masjid	mosque
+2	13.354168	74.783312	Grace Home Bible Chapel (Brethren church)	church
+2	13.355321	74.731347		temple
+2	13.355526	74.795019		church
+2	13.356308	74.729872		temple
+2	13.357226	74.752514	Sri Panchadhoomavathi Dhaivasthana	temple
+2	13.358598	74.768168	Sri Durga Adi Shakthi Temple	temple
+2	13.360701	74.757156	Karamballi Sri Venkataramana Temple	temple
+2	13.362479	74.792114		temple
+2	13.366557	74.769093	Our Lady of Fatima Church	church
+2	13.371064	74.788877		temple
+2	13.373834	74.784888		temple
+2	13.386967	74.735845	Mount Rosary Church	church
+2	13.388079	74.738212	Veerabhadra Temple	temple
+2	13.388757	74.755236	Sri Siddivinayaka Temple	temple
+2	13.394247	74.779992		church
+2	13.395694	74.735964	Milagres Church	church
+2	13.400745	74.759349	Chittari Mahabaleshwara Temple	temple
+2	13.400814	74.759445	Chittari Mahabaleshwara Temple, Uppoor	temple
+2	13.402503	74.749655	Anjaneya Temple	temple
+2	13.406049	74.793840		place of worship
+2	13.409145	74.818648	Temple	place of worship
+2	13.418864	74.817467	Temple	place of worship
